@@ -655,7 +655,7 @@ const handleAsyncOperation = async () => {
 ### Screen 2: Tips Dashboard
 
 **Desktop View:**
-![Screenshot]("C:\Users\ajitl\Downloads\wellness-recommendation-board\wellness-recommendation-board\screenshot\Screenshot 2025-09-30 030519.png")
+![Screenshot](Screenshot%202025-09-30%20030519.png)
 
 **Interactive Elements:**
 - Hover card → Scale 105% + shadow increase
@@ -670,7 +670,7 @@ const handleAsyncOperation = async () => {
 ### Screen 3: Tip Detail View
 
 **Desktop View:**
-![Screenshot]("C:\Users\ajitl\Downloads\wellness-recommendation-board\wellness-recommendation-board\screenshot\Screenshot 2025-09-30 030544.png")
+![Screenshot](Screenshot%202025-09-30%20033156.png)
 
 **Interactive Features:**
 - Back button → Return to tips screen
@@ -685,18 +685,7 @@ const handleAsyncOperation = async () => {
 ### Screen 4: Saved Tips
 
 **Desktop View:**
-![Screenshot]("C:\Users\ajitl\Downloads\wellness-recommendation-board\wellness-recommendation-board\screenshot\Screenshot 2025-09-30 033156.png")
-
-**Empty State (No Saved Tips):**
-![Screenshot]()
-
-│  │     wellness tips to access them     
-
-### Actual Application Screenshots
-
-#### Screenshot 1: Profile Capture Screen
-
-![Profile Screen]()
+![Screenshot](Screenshot%202025-09-30%20033156.png)
 
 **Features Visible:**
 - ✨ Sparkle icon with gradient background
@@ -722,10 +711,6 @@ const handleAsyncOperation = async () => {
 5. Loading state shows, then navigates to tips screen
 
 ---
-
-#### Screenshot 2: Tips Dashboard - Better Sleep Goal
-
-![Tips Screen - Sleep](screenshot-2-tips-sleep.png)
 
 **Features Visible:**
 - "← Back to Home" navigation
@@ -763,9 +748,6 @@ const handleAsyncOperation = async () => {
 
 ---
 
-#### Screenshot 3: Tips Dashboard - Fitness & Exercise Goal
-
-![Tips Screen - Fitness](screenshot-3-tips-fitness.png)
 
 **Features Visible:**
 - Same layout as Screenshot 2
@@ -1662,6 +1644,7 @@ Built with ❤️ for the AI Wellness Hackathon
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star on GitHub!**
+
 
 
 
