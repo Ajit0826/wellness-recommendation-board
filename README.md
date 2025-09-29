@@ -682,10 +682,6 @@ const handleAsyncOperation = async () => {
 
 ---
 
-### Screen 4: Saved Tips
-
-**Desktop View:**
-![Screenshot](Screenshot%202025-09-30%20033156.png)
 
 **Features Visible:**
 - ✨ Sparkle icon with gradient background
@@ -1644,6 +1640,7 @@ Built with ❤️ for the AI Wellness Hackathon
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star on GitHub!**
+
 
 
 
