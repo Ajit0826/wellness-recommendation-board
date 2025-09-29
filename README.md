@@ -639,7 +639,7 @@ const handleAsyncOperation = async () => {
 ### Screen 1: Profile Capture
 
 **Desktop View (1920x1080):**
-![Screenshot]("C:\Users\ajitl\Downloads\wellness-recommendation-board\wellness-recommendation-board\screenshot\Screenshot 2025-09-30 030501.png")
+![Screenshot](Screenshot 2025-09-30 030501.png)
 
 
 **Features:**
@@ -696,7 +696,7 @@ const handleAsyncOperation = async () => {
 
 #### Screenshot 1: Profile Capture Screen
 
-![Profile Screen](screenshot-1-profile.png)
+![Profile Screen]()
 
 **Features Visible:**
 - ✨ Sparkle icon with gradient background
@@ -1662,5 +1662,6 @@ Built with ❤️ for the AI Wellness Hackathon
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star on GitHub!**
+
 
 
