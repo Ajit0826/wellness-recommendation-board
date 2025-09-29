@@ -639,7 +639,7 @@ const handleAsyncOperation = async () => {
 ### Screen 1: Profile Capture
 
 **Desktop View (1920x1080):**
-![Screenshot](Screenshot %202025-09-30%20030501.png)
+![Screenshot](Screenshot%202025-09-30%20030501.png)
 
 
 **Features:**
@@ -1662,6 +1662,7 @@ Built with ❤️ for the AI Wellness Hackathon
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star on GitHub!**
+
 
 
 
