@@ -32,10 +32,9 @@ npm run serve
 ### Demo
 
 #### Live Demo
-🔗 **[View Interactive Demo](https://your-deployed-app.vercel.app)**
+🔗 **[View Interactive Demo](https://wellness-recommendation-board.vercel.app/)**
 
-#### Screen Recording
-📹 **[Watch Demo Video](https://youtu.be/your-demo-video)**
+
 
 **Quick Test Credentials:**
 - Age: `28`
@@ -1825,3 +1824,4 @@ Built with ❤️ for the AI Wellness Hackathon
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star on GitHub!**
+
