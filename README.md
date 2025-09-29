@@ -1633,13 +1633,14 @@ MIT License - Free to use and modify
 Built with ❤️ for the AI Wellness Hackathon
 
 ## Contact
-- GitHub: [@yourusername](https://github.com/Ajit0826)
+- GitHub: [Ajit0826](https://github.com/Ajit0826)
 - Email: ajitlewis7@gmail.com
 - Demo: [wellness-ai-board.vercel.app](https://wellness-ai-board.vercel.app)
 
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star on GitHub!**
+
 
 
 
